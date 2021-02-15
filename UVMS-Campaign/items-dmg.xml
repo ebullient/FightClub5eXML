@@ -1,0 +1,1787 @@
+<?xml version='1.0' encoding='utf-8'?>
+<compendium version="5" auto_indent="NO">
+    <item>
+        <name>+1 Rod of the Pact Keeper</name>
+        <modifier category="bonus">spell attack +1</modifier>
+        <modifier category="bonus">spell dc +1</modifier>
+    </item>
+    <item>
+        <name>+1 Wand of the War Mage</name>
+        <modifier category="bonus">spell attack +1</modifier>
+    </item>
+    <item>
+        <name>+2 Rod of the Pact Keeper</name>
+        <modifier category="bonus">spell attack +2</modifier>
+        <modifier category="bonus">spell dc +2</modifier>
+    </item>
+    <item>
+        <name>+2 Wand of the War Mage</name>
+        <modifier category="bonus">spell attack +2</modifier>
+    </item>
+    <item>
+        <name>+3 Rod of the Pact Keeper</name>
+        <modifier category="bonus">spell attack +3</modifier>
+        <modifier category="bonus">spell dc +3</modifier>
+    </item>
+    <item>
+        <name>+3 Wand of the War Mage</name>
+        <modifier category="bonus">spell attack +3</modifier>
+    </item>
+    <item>
+        <name>Airship</name>
+    </item>
+    <item>
+        <name>Alchemy Jug</name>
+    </item>
+    <item>
+        <name>Alexandrite</name>
+    </item>
+    <item>
+        <name>Amber</name>
+    </item>
+    <item>
+        <name>Amethyst</name>
+    </item>
+    <item>
+        <name>Amulet of Health</name>
+    </item>
+    <item>
+        <name>Amulet of Proof against Detection and Location</name>
+    </item>
+    <item>
+        <name>Amulet of the Planes</name>
+    </item>
+    <item>
+        <name>Animated Shield</name>
+    </item>
+    <item>
+        <name>Apparatus of Kwalish</name>
+        <roll>2d6</roll>
+    </item>
+    <item>
+        <name>Aquamarine</name>
+    </item>
+    <item>
+        <name>Armor of Invulnerability</name>
+    </item>
+    <item>
+        <name>Armor of Vulnerability (Bludgeoning)</name>
+    </item>
+    <item>
+        <name>Armor of Vulnerability (Piercing)</name>
+    </item>
+    <item>
+        <name>Armor of Vulnerability (Slashing)</name>
+    </item>
+    <item>
+        <name>Arrow-Catching Shield</name>
+    </item>
+    <item>
+        <name>Assassin's Blood</name>
+        <roll>1d12</roll>
+    </item>
+    <item>
+        <name>Axe of the Dwarvish Lords</name>
+        <range>20/60</range>
+    </item>
+    <item>
+        <name>Azurite</name>
+    </item>
+    <item>
+        <name>Bag of Beans</name>
+        <roll>3d4</roll>
+        <roll>5d4</roll>
+        <roll>5d6</roll>
+        <roll>1d12</roll>
+        <roll>1d6+6</roll>
+        <roll>1d4+8</roll>
+        <roll>1d10+20</roll>
+        <roll>1d8</roll>
+        <roll>1d4+3</roll>
+        <roll>10d6</roll>
+    </item>
+    <item>
+        <name>Bag of Devouring</name>
+    </item>
+    <item>
+        <name>Bag of Holding</name>
+    </item>
+    <item>
+        <name>Bag of Tricks, Gray</name>
+    </item>
+    <item>
+        <name>Bag of Tricks, Rust</name>
+    </item>
+    <item>
+        <name>Bag of Tricks, Tan</name>
+    </item>
+    <item>
+        <name>Banded Agate</name>
+    </item>
+    <item>
+        <name>Bead of Force</name>
+        <roll>1d4+4</roll>
+        <roll>5d4</roll>
+    </item>
+    <item>
+        <name>Bejeweled ivory drinking horn with gold filigree</name>
+    </item>
+    <item>
+        <name>Belt of Cloud Giant Strength</name>
+    </item>
+    <item>
+        <name>Belt of Dwarvenkind</name>
+        <modifier category="ability score">constitution +2</modifier>
+    </item>
+    <item>
+        <name>Belt of Fire Giant Strength</name>
+    </item>
+    <item>
+        <name>Belt of Frost Giant Strength</name>
+    </item>
+    <item>
+        <name>Belt of Hill Giant Strength</name>
+    </item>
+    <item>
+        <name>Belt of Stone Giant Strength</name>
+    </item>
+    <item>
+        <name>Belt of Storm Giant Strength</name>
+    </item>
+    <item>
+        <name>Black Dragon Scale Mail</name>
+    </item>
+    <item>
+        <name>Black Opal</name>
+    </item>
+    <item>
+        <name>Black Pearl</name>
+    </item>
+    <item>
+        <name>Black Sapphire</name>
+    </item>
+    <item>
+        <name>Black velvet mask stitched with silver thread</name>
+    </item>
+    <item>
+        <name>Blackrazor</name>
+        <roll>1d10</roll>
+    </item>
+    <item>
+        <name>Bloodstone</name>
+    </item>
+    <item>
+        <name>Blue Dragon Scale Mail</name>
+    </item>
+    <item>
+        <name>Blue Quartz</name>
+    </item>
+    <item>
+        <name>Blue Sapphire</name>
+    </item>
+    <item>
+        <name>Blue Spinel</name>
+    </item>
+    <item>
+        <name>Book of Exalted Deeds</name>
+        <modifier category="ability score">wisdom +2</modifier>
+        <roll>24d6</roll>
+        <roll>1d100</roll>
+    </item>
+    <item>
+        <name>Book of Vile Darkness</name>
+        <roll>1d12</roll>
+        <roll>3d6</roll>
+        <roll>1d100</roll>
+        <roll>1d10</roll>
+    </item>
+    <item>
+        <name>Boots of Elvenkind</name>
+    </item>
+    <item>
+        <name>Boots of Levitation</name>
+    </item>
+    <item>
+        <name>Boots of Speed</name>
+    </item>
+    <item>
+        <name>Boots of Striding and Springing</name>
+    </item>
+    <item>
+        <name>Boots of the Winterlands</name>
+    </item>
+    <item>
+        <name>Bottle stopper cork embossed with gold leaf and set with amethysts</name>
+    </item>
+    <item>
+        <name>Bowl of Commanding Water Elementals</name>
+    </item>
+    <item>
+        <name>Box of turquoise animal figurines</name>
+    </item>
+    <item>
+        <name>Bracers of Archery</name>
+    </item>
+    <item>
+        <name>Bracers of Defense</name>
+        <modifier category="bonus">ac +2</modifier>
+    </item>
+    <item>
+        <name>Brass Dragon Scale Mail</name>
+    </item>
+    <item>
+        <name>Brass mug with jade inlay</name>
+    </item>
+    <item>
+        <name>Brazier of Commanding Fire Elementals</name>
+    </item>
+    <item>
+        <name>Bronze crown</name>
+    </item>
+    <item>
+        <name>Bronze Dragon Scale Mail</name>
+    </item>
+    <item>
+        <name>Brooch of Shielding</name>
+    </item>
+    <item>
+        <name>Broom of Flying</name>
+    </item>
+    <item>
+        <name>Burnt Othur Fumes</name>
+        <roll>3d6</roll>
+        <roll>1d6</roll>
+    </item>
+    <item>
+        <name>Candle of Invocation</name>
+    </item>
+    <item>
+        <name>Cap of Water Breathing</name>
+    </item>
+    <item>
+        <name>Cape of the Mountebank</name>
+    </item>
+    <item>
+        <name>Carnelian</name>
+    </item>
+    <item>
+        <name>Carpet of Flying, 3 ft. × 5 ft.</name>
+    </item>
+    <item>
+        <name>Carpet of Flying, 4 ft. × 6 ft.</name>
+    </item>
+    <item>
+        <name>Carpet of Flying, 5 ft. × 7 ft.</name>
+    </item>
+    <item>
+        <name>Carpet of Flying, 6 ft. × 9 ft.</name>
+    </item>
+    <item>
+        <name>Carrion Crawler Mucus</name>
+    </item>
+    <item>
+        <name>Carved bone statuette</name>
+    </item>
+    <item>
+        <name>Carved harp of exotic wood with ivory inlay and zircon gems</name>
+    </item>
+    <item>
+        <name>Carved ivory statuette</name>
+    </item>
+    <item>
+        <name>Censer of Controlling Air Elementals</name>
+    </item>
+    <item>
+        <name>Ceremonial electrum dagger with a black pearl in the pommel</name>
+    </item>
+    <item>
+        <name>Chalcedony</name>
+    </item>
+    <item>
+        <name>Chime of Opening</name>
+    </item>
+    <item>
+        <name>Chrysoberyl</name>
+    </item>
+    <item>
+        <name>Chrysoprase</name>
+    </item>
+    <item>
+        <name>Circlet of Blasting</name>
+    </item>
+    <item>
+        <name>Citrine</name>
+    </item>
+    <item>
+        <name>Cloak of Arachnida</name>
+    </item>
+    <item>
+        <name>Cloak of Displacement</name>
+    </item>
+    <item>
+        <name>Cloak of Elvenkind</name>
+    </item>
+    <item>
+        <name>Cloak of Invisibility</name>
+    </item>
+    <item>
+        <name>Cloak of Protection</name>
+        <modifier category="bonus">ac +1</modifier>
+        <modifier category="bonus">saving throws +1</modifier>
+    </item>
+    <item>
+        <name>Cloak of the Bat</name>
+    </item>
+    <item>
+        <name>Cloak of the Manta Ray</name>
+    </item>
+    <item>
+        <name>Cloth-of-gold vestments</name>
+    </item>
+    <item>
+        <name>Copper chalice with silver filigree</name>
+    </item>
+    <item>
+        <name>Copper Dragon Scale Mail</name>
+    </item>
+    <item>
+        <name>Coral</name>
+    </item>
+    <item>
+        <name>Crystal Ball</name>
+    </item>
+    <item>
+        <name>Crystal Ball of Mind Reading</name>
+    </item>
+    <item>
+        <name>Crystal Ball of Telepathy</name>
+    </item>
+    <item>
+        <name>Crystal Ball of True Seeing</name>
+    </item>
+    <item>
+        <name>Cube of Force</name>
+        <roll>1d20</roll>
+        <roll>1d12</roll>
+        <roll>1d10</roll>
+        <roll>1d6</roll>
+        <roll>1d4</roll>
+    </item>
+    <item>
+        <name>Cubic Gate</name>
+        <roll>1d3</roll>
+    </item>
+    <item>
+        <name>Daern's Instant Fortress</name>
+        <roll>10d10</roll>
+    </item>
+    <item>
+        <name>Dagger of Venom</name>
+        <range>20/60</range>
+        <roll>2d10</roll>
+    </item>
+    <item>
+        <name>Decanter of Endless Water</name>
+        <roll>1d4</roll>
+    </item>
+    <item>
+        <name>Deck of Illusions</name>
+        <roll>1d20-1</roll>
+        <roll>1d33</roll>
+    </item>
+    <item>
+        <name>Deck of Many Things</name>
+        <roll>1d22</roll>
+        <roll>1d3</roll>
+        <roll>1d4+1</roll>
+    </item>
+    <item>
+        <name>Demon Armor</name>
+        <roll>1d8</roll>
+    </item>
+    <item>
+        <name>Diamond</name>
+    </item>
+    <item>
+        <name>Dimensional Shackles</name>
+    </item>
+    <item>
+        <name>Driftglobe</name>
+    </item>
+    <item>
+        <name>Drow Poison</name>
+    </item>
+    <item>
+        <name>Dust of Disappearance</name>
+        <roll>2d4</roll>
+    </item>
+    <item>
+        <name>Dust of Dryness</name>
+        <roll>1d6+4</roll>
+        <roll>10d6</roll>
+    </item>
+    <item>
+        <name>Dust of Sneezing and Choking</name>
+    </item>
+    <item>
+        <name>Dwarven Plate</name>
+    </item>
+    <item>
+        <name>Dwarven Thrower</name>
+        <range>20/60</range>
+        <roll>1d8</roll>
+        <roll>2d8</roll>
+    </item>
+    <item>
+        <name>Efreeti Bottle</name>
+    </item>
+    <item>
+        <name>Efreeti Chain</name>
+    </item>
+    <item>
+        <name>Elemental Gem, Blue Sapphire</name>
+    </item>
+    <item>
+        <name>Elemental Gem, Emerald</name>
+    </item>
+    <item>
+        <name>Elemental Gem, Red Corundum</name>
+    </item>
+    <item>
+        <name>Elemental Gem, Yellow Diamond</name>
+    </item>
+    <item>
+        <name>Elixir of Health</name>
+    </item>
+    <item>
+        <name>Elven Chain</name>
+    </item>
+    <item>
+        <name>Embroidered glove set with jewel chips</name>
+    </item>
+    <item>
+        <name>Embroidered silk and velvet mantle set with numerous moonstones</name>
+    </item>
+    <item>
+        <name>Embroidered silk handkerchief</name>
+    </item>
+    <item>
+        <name>Emerald</name>
+    </item>
+    <item>
+        <name>Essence of Ether</name>
+    </item>
+    <item>
+        <name>Eversmoking Bottle</name>
+    </item>
+    <item>
+        <name>Eye Agate</name>
+    </item>
+    <item>
+        <name>Eye of Vecna</name>
+        <roll>1d4+4</roll>
+        <roll>1d10</roll>
+    </item>
+    <item>
+        <name>Eye patch with a mock eye set in blue sapphire and moonstone</name>
+    </item>
+    <item>
+        <name>Eyes of Charming</name>
+    </item>
+    <item>
+        <name>Eyes of Minute Seeing</name>
+    </item>
+    <item>
+        <name>Eyes of the Eagle</name>
+    </item>
+    <item>
+        <name>Figurine of Wondrous Power, Bronze Griffon</name>
+    </item>
+    <item>
+        <name>Figurine of Wondrous Power, Ebony Fly</name>
+    </item>
+    <item>
+        <name>Figurine of Wondrous Power, Golden Lions</name>
+    </item>
+    <item>
+        <name>Figurine of Wondrous Power, Ivory Goats</name>
+    </item>
+    <item>
+        <name>Figurine of Wondrous Power, Marble Elephant</name>
+    </item>
+    <item>
+        <name>Figurine of Wondrous Power, Obsidian Steed</name>
+    </item>
+    <item>
+        <name>Figurine of Wondrous Power, Onyx Dog</name>
+    </item>
+    <item>
+        <name>Figurine of Wondrous Power, Serpentine Owl</name>
+    </item>
+    <item>
+        <name>Figurine of Wondrous Power, Silver Raven</name>
+    </item>
+    <item>
+        <name>Fine gold chain set with a fire opal</name>
+    </item>
+    <item>
+        <name>Fire Opal</name>
+    </item>
+    <item>
+        <name>Folding Boat</name>
+    </item>
+    <item>
+        <name>Galley</name>
+    </item>
+    <item>
+        <name>Garnet</name>
+    </item>
+    <item>
+        <name>Gauntlets of Ogre Power</name>
+    </item>
+    <item>
+        <name>Gem of Brightness</name>
+    </item>
+    <item>
+        <name>Gem of Seeing</name>
+        <roll>1d3</roll>
+    </item>
+    <item>
+        <name>Glamoured Studded Leather</name>
+    </item>
+    <item>
+        <name>Gloves of Missile Snaring</name>
+        <roll>1d10</roll>
+    </item>
+    <item>
+        <name>Gloves of Swimming and Climbing</name>
+    </item>
+    <item>
+        <name>Gloves of Thievery</name>
+    </item>
+    <item>
+        <name>Goggles of Night</name>
+    </item>
+    <item>
+        <name>Gold bird cage with electrum filigree</name>
+    </item>
+    <item>
+        <name>Gold circlet set with four aquamarines</name>
+    </item>
+    <item>
+        <name>Gold cup set with emeralds</name>
+    </item>
+    <item>
+        <name>Gold dragon comb set with red garnets as eyes</name>
+    </item>
+    <item>
+        <name>Gold Dragon Scale Mail</name>
+    </item>
+    <item>
+        <name>Gold jewelry box with platinum filigree</name>
+    </item>
+    <item>
+        <name>Gold locket with a painted portrait inside</name>
+    </item>
+    <item>
+        <name>Gold music box</name>
+    </item>
+    <item>
+        <name>Gold ring set with bloodstones</name>
+    </item>
+    <item>
+        <name>Green Dragon Scale Mail</name>
+    </item>
+    <item>
+        <name>Hammer of Thunderbolts</name>
+        <roll>1d4+1</roll>
+    </item>
+    <item>
+        <name>Hand of Vecna</name>
+        <roll>2d8</roll>
+        <roll>1d4+4</roll>
+        <roll>1d10</roll>
+    </item>
+    <item>
+        <name>Hat of Disguise</name>
+    </item>
+    <item>
+        <name>Headband of Intellect</name>
+    </item>
+    <item>
+        <name>Helm of Brilliance</name>
+        <roll>1d10</roll>
+        <roll>2d10</roll>
+        <roll>3d10</roll>
+        <roll>4d10</roll>
+        <roll>1d6</roll>
+    </item>
+    <item>
+        <name>Helm of Comprehending Languages</name>
+    </item>
+    <item>
+        <name>Helm of Telepathy</name>
+    </item>
+    <item>
+        <name>Helm of Teleportation</name>
+        <roll>1d3</roll>
+    </item>
+    <item>
+        <name>Hematite</name>
+    </item>
+    <item>
+        <name>Heward's Handy Haversack</name>
+    </item>
+    <item>
+        <name>Horn of Blasting</name>
+        <roll>5d6</roll>
+        <roll>10d6</roll>
+    </item>
+    <item>
+        <name>Horn of Valhalla, Brass</name>
+        <roll>3d4+3</roll>
+    </item>
+    <item>
+        <name>Horn of Valhalla, Bronze</name>
+        <roll>4d4+4</roll>
+    </item>
+    <item>
+        <name>Horn of Valhalla, Iron</name>
+        <roll>5d4+5</roll>
+    </item>
+    <item>
+        <name>Horn of Valhalla, Silver</name>
+        <roll>2d4+2</roll>
+    </item>
+    <item>
+        <name>Horseshoes of a Zephyr</name>
+    </item>
+    <item>
+        <name>Horseshoes of Speed</name>
+    </item>
+    <item>
+        <name>Immovable Rod</name>
+    </item>
+    <item>
+        <name>Instrument of the Bards, Anstruth Harp</name>
+        <roll>2d4</roll>
+    </item>
+    <item>
+        <name>Instrument of the Bards, Canaith Mandolin</name>
+        <roll>2d4</roll>
+    </item>
+    <item>
+        <name>Instrument of the Bards, Cli Lyre</name>
+        <roll>2d4</roll>
+    </item>
+    <item>
+        <name>Instrument of the Bards, Doss Lute</name>
+        <roll>2d4</roll>
+    </item>
+    <item>
+        <name>Instrument of the Bards, Fochlucan Bandore</name>
+        <roll>2d4</roll>
+    </item>
+    <item>
+        <name>Instrument of the Bards, Mac-Fuirmidh Cittern</name>
+        <roll>2d4</roll>
+    </item>
+    <item>
+        <name>Instrument of the Bards, Ollamh Harp</name>
+        <roll>2d4</roll>
+    </item>
+    <item>
+        <name>Ioun Stone, Absorption</name>
+        <roll>1d3</roll>
+    </item>
+    <item>
+        <name>Ioun Stone, Agility</name>
+        <modifier category="ability score">dexterity +2</modifier>
+        <roll>1d3</roll>
+    </item>
+    <item>
+        <name>Ioun Stone, Awareness</name>
+        <roll>1d3</roll>
+    </item>
+    <item>
+        <name>Ioun Stone, Fortitude</name>
+        <modifier category="ability score">constitution +2</modifier>
+        <roll>1d3</roll>
+    </item>
+    <item>
+        <name>Ioun Stone, Greater Absorption</name>
+        <roll>1d3</roll>
+    </item>
+    <item>
+        <name>Ioun Stone, Insight</name>
+        <modifier category="ability score">wisdom +2</modifier>
+        <roll>1d3</roll>
+    </item>
+    <item>
+        <name>Ioun Stone, Intellect</name>
+        <modifier category="ability score">intelligence +2</modifier>
+        <roll>1d3</roll>
+    </item>
+    <item>
+        <name>Ioun Stone, Leadership</name>
+        <modifier category="ability score">charisma +2</modifier>
+        <roll>1d3</roll>
+    </item>
+    <item>
+        <name>Ioun Stone, Mastery</name>
+        <modifier category="bonus">proficiency bonus +1</modifier>
+        <roll>1d3</roll>
+    </item>
+    <item>
+        <name>Ioun Stone, Protection</name>
+        <modifier category="bonus">ac +1</modifier>
+        <roll>1d3</roll>
+    </item>
+    <item>
+        <name>Ioun Stone, Regeneration</name>
+        <roll>1d3</roll>
+    </item>
+    <item>
+        <name>Ioun Stone, Reserve</name>
+        <roll>1d3</roll>
+        <roll>1d4-1</roll>
+    </item>
+    <item>
+        <name>Ioun Stone, Strength</name>
+        <modifier category="ability score">strength +2</modifier>
+        <roll>1d3</roll>
+    </item>
+    <item>
+        <name>Ioun Stone, Sustenance</name>
+        <roll>1d3</roll>
+    </item>
+    <item>
+        <name>Iron Bands of Bilarro</name>
+    </item>
+    <item>
+        <name>Iron Flask</name>
+    </item>
+    <item>
+        <name>Jacinth</name>
+    </item>
+    <item>
+        <name>Jade</name>
+    </item>
+    <item>
+        <name>Jade game board with solid gold playing pieces</name>
+    </item>
+    <item>
+        <name>Jasper</name>
+    </item>
+    <item>
+        <name>Javelin of Lightning</name>
+        <range>30/120</range>
+        <roll>4d6</roll>
+    </item>
+    <item>
+        <name>Jet</name>
+    </item>
+    <item>
+        <name>Jeweled anklet</name>
+    </item>
+    <item>
+        <name>Jeweled gold crown</name>
+    </item>
+    <item>
+        <name>Jeweled platinum ring</name>
+    </item>
+    <item>
+        <name>Keelboat</name>
+    </item>
+    <item>
+        <name>Keoghtom's Ointment</name>
+        <roll>1d4+1</roll>
+        <roll>2d8+2</roll>
+    </item>
+    <item>
+        <name>Lantern of Revealing</name>
+    </item>
+    <item>
+        <name>Lapis Lazuli</name>
+    </item>
+    <item>
+        <name>Large gold bracelet</name>
+    </item>
+    <item>
+        <name>Large well-made tapestry</name>
+    </item>
+    <item>
+        <name>Longship</name>
+    </item>
+    <item>
+        <name>Mace of Disruption</name>
+        <roll>2d6</roll>
+    </item>
+    <item>
+        <name>Mace of Smiting</name>
+    </item>
+    <item>
+        <name>Mace of Terror</name>
+        <roll>1d3</roll>
+    </item>
+    <item>
+        <name>Malachite</name>
+    </item>
+    <item>
+        <name>Malice</name>
+    </item>
+    <item>
+        <name>Mantle of Spell Resistance</name>
+    </item>
+    <item>
+        <name>Manual of Bodily Health</name>
+    </item>
+    <item>
+        <name>Manual of Clay Golems</name>
+        <roll>6d6</roll>
+    </item>
+    <item>
+        <name>Manual of Flesh Golems</name>
+        <roll>6d6</roll>
+    </item>
+    <item>
+        <name>Manual of Gainful Exercise</name>
+    </item>
+    <item>
+        <name>Manual of Iron Golems</name>
+        <roll>6d6</roll>
+    </item>
+    <item>
+        <name>Manual of Quickness of Action</name>
+    </item>
+    <item>
+        <name>Manual of Stone Golems</name>
+        <roll>6d6</roll>
+    </item>
+    <item>
+        <name>Medallion of Thoughts</name>
+        <roll>1d3</roll>
+    </item>
+    <item>
+        <name>Midnight Tears</name>
+        <roll>9d6</roll>
+    </item>
+    <item>
+        <name>Mirror of Life Trapping</name>
+    </item>
+    <item>
+        <name>Moonblade</name>
+        <roll>1d6+1</roll>
+        <roll>1d6</roll>
+    </item>
+    <item>
+        <name>Moonstone</name>
+    </item>
+    <item>
+        <name>Moss Agate</name>
+    </item>
+    <item>
+        <name>Necklace of Adaptation</name>
+    </item>
+    <item>
+        <name>Necklace of Fireballs</name>
+        <roll>1d6+3</roll>
+    </item>
+    <item>
+        <name>Necklace of Prayer Beads</name>
+        <roll>1d4+2</roll>
+    </item>
+    <item>
+        <name>Necklace string of small pink pearls</name>
+    </item>
+    <item>
+        <name>Nolzur's Marvelous Pigments</name>
+        <roll>1d4</roll>
+    </item>
+    <item>
+        <name>Oathbow</name>
+        <range>150/600</range>
+        <roll>3d6</roll>
+    </item>
+    <item>
+        <name>Obsidian</name>
+    </item>
+    <item>
+        <name>Obsidian statuette with gold fittings and inlay</name>
+    </item>
+    <item>
+        <name>Oil of Etherealness</name>
+    </item>
+    <item>
+        <name>Oil of Sharpness</name>
+    </item>
+    <item>
+        <name>Oil of Slipperiness</name>
+    </item>
+    <item>
+        <name>Oil of Taggit</name>
+    </item>
+    <item>
+        <name>Old masterpiece painting</name>
+    </item>
+    <item>
+        <name>Onyx</name>
+    </item>
+    <item>
+        <name>Opal</name>
+    </item>
+    <item>
+        <name>Orb of Dragonkind</name>
+        <roll>1d4+3</roll>
+    </item>
+    <item>
+        <name>Painted gold child's sarcophagus</name>
+    </item>
+    <item>
+        <name>Painted gold war mask</name>
+    </item>
+    <item>
+        <name>Pair of engraved bone dice</name>
+    </item>
+    <item>
+        <name>Pale Tincture</name>
+        <roll>1d6</roll>
+    </item>
+    <item>
+        <name>Pearl</name>
+    </item>
+    <item>
+        <name>Pearl of Power</name>
+    </item>
+    <item>
+        <name>Periapt of Health</name>
+    </item>
+    <item>
+        <name>Periapt of Proof against Poison</name>
+    </item>
+    <item>
+        <name>Periapt of Wound Closure</name>
+    </item>
+    <item>
+        <name>Peridot</name>
+    </item>
+    <item>
+        <name>Philter of Love</name>
+    </item>
+    <item>
+        <name>Pipes of Haunting</name>
+        <roll>1d3</roll>
+    </item>
+    <item>
+        <name>Pipes of the Sewers</name>
+        <roll>1d3</roll>
+    </item>
+    <item>
+        <name>Plate Armor of Etherealness</name>
+    </item>
+    <item>
+        <name>Platinum bracelet set with a sapphire</name>
+    </item>
+    <item>
+        <name>Portable Hole</name>
+    </item>
+    <item>
+        <name>Potion of Acid Resistance</name>
+    </item>
+    <item>
+        <name>Potion of Animal Friendship</name>
+    </item>
+    <item>
+        <name>Potion of Clairvoyance</name>
+    </item>
+    <item>
+        <name>Potion of Climbing</name>
+    </item>
+    <item>
+        <name>Potion of Cloud Giant Strength</name>
+    </item>
+    <item>
+        <name>Potion of Cold Resistance</name>
+    </item>
+    <item>
+        <name>Potion of Diminution</name>
+        <roll>1d4</roll>
+    </item>
+    <item>
+        <name>Potion of Fire Breath</name>
+        <roll>4d6</roll>
+    </item>
+    <item>
+        <name>Potion of Fire Giant Strength</name>
+    </item>
+    <item>
+        <name>Potion of Fire Resistance</name>
+    </item>
+    <item>
+        <name>Potion of Flying</name>
+    </item>
+    <item>
+        <name>Potion of Force Resistance</name>
+    </item>
+    <item>
+        <name>Potion of Frost Giant Strength</name>
+    </item>
+    <item>
+        <name>Potion of Gaseous Form</name>
+    </item>
+    <item>
+        <name>Potion of Greater Healing</name>
+        <roll>4d4+4</roll>
+    </item>
+    <item>
+        <name>Potion of Growth</name>
+        <roll>1d4</roll>
+    </item>
+    <item>
+        <name>Potion of Healing</name>
+        <roll>2d4+2</roll>
+    </item>
+    <item>
+        <name>Potion of Heroism</name>
+    </item>
+    <item>
+        <name>Potion of Hill Giant Strength</name>
+    </item>
+    <item>
+        <name>Potion of Invisibility</name>
+    </item>
+    <item>
+        <name>Potion of Invulnerability</name>
+    </item>
+    <item>
+        <name>Potion of Lightning Resistance</name>
+    </item>
+    <item>
+        <name>Potion of Longevity</name>
+        <roll>1d6+6</roll>
+        <roll>1d6+6</roll>
+    </item>
+    <item>
+        <name>Potion of Mind Reading</name>
+    </item>
+    <item>
+        <name>Potion of Necrotic Resistance</name>
+    </item>
+    <item>
+        <name>Potion of Poison</name>
+        <roll>3d6</roll>
+        <roll>1d6</roll>
+    </item>
+    <item>
+        <name>Potion of Poison Resistance</name>
+    </item>
+    <item>
+        <name>Potion of Psychic Resistance</name>
+    </item>
+    <item>
+        <name>Potion of Radiant Resistance</name>
+    </item>
+    <item>
+        <name>Potion of Speed</name>
+    </item>
+    <item>
+        <name>Potion of Stone Giant Strength</name>
+    </item>
+    <item>
+        <name>Potion of Storm Giant Strength</name>
+    </item>
+    <item>
+        <name>Potion of Superior Healing</name>
+        <roll>8d4+8</roll>
+    </item>
+    <item>
+        <name>Potion of Supreme Healing</name>
+        <roll>10d4+20</roll>
+    </item>
+    <item>
+        <name>Potion of Thunder Resistance</name>
+    </item>
+    <item>
+        <name>Potion of Vitality</name>
+    </item>
+    <item>
+        <name>Potion of Water Breathing</name>
+    </item>
+    <item>
+        <name>Purple Worm Poison</name>
+        <roll>12d6</roll>
+    </item>
+    <item>
+        <name>Quaal's Feather Token, Anchor</name>
+    </item>
+    <item>
+        <name>Quaal's Feather Token, Bird</name>
+    </item>
+    <item>
+        <name>Quaal's Feather Token, Fan</name>
+    </item>
+    <item>
+        <name>Quaal's Feather Token, Swan Boat</name>
+    </item>
+    <item>
+        <name>Quaal's Feather Token, Tree</name>
+    </item>
+    <item>
+        <name>Quaal's Feather Token, Whip</name>
+        <roll>1d6+5</roll>
+    </item>
+    <item>
+        <name>Quartz</name>
+    </item>
+    <item>
+        <name>Quiver of Ehlonna</name>
+    </item>
+    <item>
+        <name>Red Dragon Scale Mail</name>
+    </item>
+    <item>
+        <name>Rhodochrosite</name>
+    </item>
+    <item>
+        <name>Ring of Acid Resistance</name>
+    </item>
+    <item>
+        <name>Ring of Air Elemental Command</name>
+        <roll>1d4+1</roll>
+    </item>
+    <item>
+        <name>Ring of Animal Influence</name>
+        <roll>1d3</roll>
+    </item>
+    <item>
+        <name>Ring of Cold Resistance</name>
+    </item>
+    <item>
+        <name>Ring of Djinni Summoning</name>
+    </item>
+    <item>
+        <name>Ring of Earth Elemental Command</name>
+        <roll>1d4+1</roll>
+    </item>
+    <item>
+        <name>Ring of Evasion</name>
+        <roll>1d3</roll>
+    </item>
+    <item>
+        <name>Ring of Feather Falling</name>
+    </item>
+    <item>
+        <name>Ring of Fire Elemental Command</name>
+        <roll>1d4+1</roll>
+    </item>
+    <item>
+        <name>Ring of Fire Resistance</name>
+    </item>
+    <item>
+        <name>Ring of Force Resistance</name>
+    </item>
+    <item>
+        <name>Ring of Free Action</name>
+    </item>
+    <item>
+        <name>Ring of Invisibility</name>
+    </item>
+    <item>
+        <name>Ring of Jumping</name>
+    </item>
+    <item>
+        <name>Ring of Lightning Resistance</name>
+    </item>
+    <item>
+        <name>Ring of Mind Shielding</name>
+    </item>
+    <item>
+        <name>Ring of Necrotic Resistance</name>
+    </item>
+    <item>
+        <name>Ring of Poison Resistance</name>
+    </item>
+    <item>
+        <name>Ring of Protection</name>
+        <modifier category="bonus">ac +1</modifier>
+        <modifier category="bonus">saving throws +1</modifier>    </item>
+    <item>
+        <name>Ring of Psychic Resistance</name>
+    </item>
+    <item>
+        <name>Ring of Radiant Resistance</name>
+    </item>
+    <item>
+        <name>Ring of Regeneration</name>
+        <roll>1d6</roll>
+        <roll>1d6+1</roll>
+    </item>
+    <item>
+        <name>Ring of Shooting Stars</name>
+        <roll>1d6</roll>
+        <roll>2d4</roll>
+        <roll>2d6</roll>
+        <roll>5d4</roll>
+        <roll>4d12</roll>
+    </item>
+    <item>
+        <name>Ring of Spell Storing</name>
+        <roll>1d6-1</roll>
+    </item>
+    <item>
+        <name>Ring of Spell Turning</name>
+    </item>
+    <item>
+        <name>Ring of Swimming</name>
+    </item>
+    <item>
+        <name>Ring of Telekinesis</name>
+    </item>
+    <item>
+        <name>Ring of the Ram</name>
+        <roll>1d3</roll>
+        <roll>2d10</roll>
+    </item>
+    <item>
+        <name>Ring of Three Wishes</name>
+    </item>
+    <item>
+        <name>Ring of Thunder Resistance</name>
+    </item>
+    <item>
+        <name>Ring of Warmth</name>
+    </item>
+    <item>
+        <name>Ring of Water Elemental Command</name>
+        <roll>1d4+1</roll>
+    </item>
+    <item>
+        <name>Ring of Water Walking</name>
+    </item>
+    <item>
+        <name>Ring of X-ray Vision</name>
+    </item>
+    <item>
+        <name>Robe of Eyes</name>
+    </item>
+    <item>
+        <name>Robe of Scintillating Colors</name>
+        <roll>1d3</roll>
+    </item>
+    <item>
+        <name>Robe of Stars</name>
+        <modifier category="bonus">saving throws +1</modifier>
+        <roll>1d6</roll>
+    </item>
+    <item>
+        <name>Robe of the Archmagi</name>
+        <modifier category="bonus">ac +5</modifier>
+        <modifier category="bonus">spell attack +2</modifier>
+        <modifier category="bonus">spell dc +2</modifier>
+    </item>
+    <item>
+        <name>Robe of Useful Items</name>
+        <roll>4d4</roll>
+    </item>
+    <item>
+        <name>Rod of Absorption</name>
+        <roll>1d10</roll>
+    </item>
+    <item>
+        <name>Rod of Alertness</name>
+    </item>
+    <item>
+        <name>Rod of Lordly Might</name>
+        <roll>4d6</roll>
+    </item>
+    <item>
+        <name>Rod of Resurrection</name>
+    </item>
+    <item>
+        <name>Rod of Rulership</name>
+    </item>
+    <item>
+        <name>Rod of Security</name>
+    </item>
+    <item>
+        <name>Rope of Climbing</name>
+    </item>
+    <item>
+        <name>Rope of Entanglement</name>
+    </item>
+    <item>
+        <name>Rowboat</name>
+    </item>
+    <item>
+        <name>Ruby</name>
+    </item>
+    <item>
+        <name>Saddle of the Cavalier</name>
+    </item>
+    <item>
+        <name>Sailing Ship</name>
+    </item>
+    <item>
+        <name>Sardonyx</name>
+    </item>
+    <item>
+        <name>Scarab of Protection</name>
+    </item>
+    <item>
+        <name>Scimitar of Speed</name>
+    </item>
+    <item>
+        <name>Scroll of Protection from Aberrations</name>
+    </item>
+    <item>
+        <name>Scroll of Protection from Beasts</name>
+    </item>
+    <item>
+        <name>Scroll of Protection from Celestials</name>
+    </item>
+    <item>
+        <name>Scroll of Protection from Elementals</name>
+    </item>
+    <item>
+        <name>Scroll of Protection from Fey</name>
+    </item>
+    <item>
+        <name>Scroll of Protection from Fiends</name>
+    </item>
+    <item>
+        <name>Scroll of Protection from Plants</name>
+    </item>
+    <item>
+        <name>Scroll of Protection from Undead</name>
+    </item>
+    <item>
+        <name>Sending Stones</name>
+    </item>
+    <item>
+        <name>Sentinel Shield</name>
+    </item>
+    <item>
+        <name>Serpent Venom</name>
+        <roll>3d6</roll>
+    </item>
+    <item>
+        <name>Shield of Missile Attraction</name>
+    </item>
+    <item>
+        <name>Silk robe with gold embroidery</name>
+    </item>
+    <item>
+        <name>Silver and gold brooch</name>
+    </item>
+    <item>
+        <name>Silver chalice set with moonstones</name>
+    </item>
+    <item>
+        <name>Silver Dragon Scale Mail</name>
+    </item>
+    <item>
+        <name>Silver ewer</name>
+    </item>
+    <item>
+        <name>Silver necklace with a gemstone pendant</name>
+    </item>
+    <item>
+        <name>Silver-plated steel longsword with jet set in hilt</name>
+    </item>
+    <item>
+        <name>Slippers of Spider Climbing</name>
+    </item>
+    <item>
+        <name>Small gold bracelet</name>
+    </item>
+    <item>
+        <name>Small gold idol</name>
+    </item>
+    <item>
+        <name>Small gold statuette set with rubies</name>
+    </item>
+    <item>
+        <name>Small mirror set in a painted wooden frame</name>
+    </item>
+    <item>
+        <name>Sovereign Glue</name>
+        <roll>1d6+1</roll>
+    </item>
+    <item>
+        <name>Spell Scroll (1st Level)</name>
+    </item>
+    <item>
+        <name>Spell Scroll (2nd Level)</name>
+    </item>
+    <item>
+        <name>Spell Scroll (3rd Level)</name>
+    </item>
+    <item>
+        <name>Spell Scroll (4th Level)</name>
+    </item>
+    <item>
+        <name>Spell Scroll (5th Level)</name>
+    </item>
+    <item>
+        <name>Spell Scroll (6th Level)</name>
+    </item>
+    <item>
+        <name>Spell Scroll (7th Level)</name>
+    </item>
+    <item>
+        <name>Spell Scroll (8th Level)</name>
+    </item>
+    <item>
+        <name>Spell Scroll (9th Level)</name>
+    </item>
+    <item>
+        <name>Spell Scroll (Cantrip)</name>
+    </item>
+    <item>
+        <name>Spellguard Shield</name>
+    </item>
+    <item>
+        <name>Sphere of Annihilation</name>
+        <roll>4d10</roll>
+    </item>
+    <item>
+        <name>Spinel</name>
+    </item>
+    <item>
+        <name>Staff of Charming</name>
+        <roll>1d8+2</roll>
+    </item>
+    <item>
+        <name>Staff of Fire</name>
+        <roll>1d6+4</roll>
+    </item>
+    <item>
+        <name>Staff of Frost</name>
+        <roll>1d6+4</roll>
+    </item>
+    <item>
+        <name>Staff of Healing</name>
+        <roll>1d6+4</roll>
+    </item>
+    <item>
+        <name>Staff of Power</name>
+        <modifier category="bonus">ac +2</modifier>
+        <modifier category="bonus">saving throws +2</modifier>
+        <modifier category="bonus">spell attack +2</modifier>
+        <roll>2d8+4</roll>
+        <roll>1d8+2</roll>
+        <roll>1d6</roll>
+    </item>
+    <item>
+        <name>Staff of Striking</name>
+        <roll>1d6</roll>
+        <roll>1d6+4</roll>
+    </item>
+    <item>
+        <name>Staff of Swarming Insects</name>
+        <roll>1d6+4</roll>
+    </item>
+    <item>
+        <name>Staff of the Adder</name>
+        <roll>1d6</roll>
+        <roll>3d6</roll>
+    </item>
+    <item>
+        <name>Staff of the Magi</name>
+        <modifier category="bonus">spell attack +2</modifier>
+        <roll>4d6+2</roll>
+        <roll>1d12+1</roll>
+    </item>
+    <item>
+        <name>Staff of the Python</name>
+    </item>
+    <item>
+        <name>Staff of the Woodlands</name>
+        <modifier category="bonus">spell attack +2</modifier>
+        <roll>1d6+4</roll>
+    </item>
+    <item>
+        <name>Staff of Thunder and Lightning</name>
+        <roll>2d6</roll>
+        <roll>9d6</roll>
+    </item>
+    <item>
+        <name>Staff of Withering</name>
+        <roll>1d3</roll>
+        <roll>2d10</roll>
+    </item>
+    <item>
+        <name>Star rose quartz</name>
+    </item>
+    <item>
+        <name>Star Ruby</name>
+    </item>
+    <item>
+        <name>Star Sapphire</name>
+    </item>
+    <item>
+        <name>Stone of Controlling Earth Elementals</name>
+    </item>
+    <item>
+        <name>Stone of Good Luck</name>
+        <modifier category="bonus">saving throws +1</modifier>
+    </item>
+    <item>
+        <name>Sun Blade</name>
+        <roll>1d8</roll>
+    </item>
+    <item>
+        <name>Sword of Answering (Answerer)</name>
+    </item>
+    <item>
+        <name>Sword of Answering (Back Talker)</name>
+    </item>
+    <item>
+        <name>Sword of Answering (Concluder)</name>
+    </item>
+    <item>
+        <name>Sword of Answering (Last Quip)</name>
+    </item>
+    <item>
+        <name>Sword of Answering (Rebutter)</name>
+    </item>
+    <item>
+        <name>Sword of Answering (Replier)</name>
+    </item>
+    <item>
+        <name>Sword of Answering (Retorter)</name>
+    </item>
+    <item>
+        <name>Sword of Answering (Scather)</name>
+    </item>
+    <item>
+        <name>Sword of Answering (Squelcher)</name>
+    </item>
+    <item>
+        <name>Sword of Kas</name>
+        <roll>2d10</roll>
+        <roll>3d6</roll>
+    </item>
+    <item>
+        <name>Talisman of Pure Good</name>
+        <roll>6d6</roll>
+        <roll>8d6</roll>
+    </item>
+    <item>
+        <name>Talisman of the Sphere</name>
+    </item>
+    <item>
+        <name>Talisman of Ultimate Evil</name>
+        <roll>6d6</roll>
+        <roll>8d6</roll>
+    </item>
+    <item>
+        <name>Tentacle Rod</name>
+        <roll>1d6</roll>
+    </item>
+    <item>
+        <name>Tiger Eye</name>
+    </item>
+    <item>
+        <name>Tome of Clear Thought</name>
+    </item>
+    <item>
+        <name>Tome of Leadership and Influence</name>
+    </item>
+    <item>
+        <name>Tome of the Stilled Tongue</name>
+    </item>
+    <item>
+        <name>Tome of Understanding</name>
+    </item>
+    <item>
+        <name>Topaz</name>
+    </item>
+    <item>
+        <name>Torpor</name>
+        <roll>4d6</roll>
+    </item>
+    <item>
+        <name>Tourmaline</name>
+    </item>
+    <item>
+        <name>Trident of Fish Command</name>
+        <range>20/60</range>
+        <roll>1d3</roll>
+    </item>
+    <item>
+        <name>Truth Serum</name>
+    </item>
+    <item>
+        <name>Turquoise</name>
+    </item>
+    <item>
+        <name>Universal Solvent</name>
+    </item>
+    <item>
+        <name>Wand of Binding</name>
+        <roll>1d6+1</roll>
+    </item>
+    <item>
+        <name>Wand of Enemy Detection</name>
+        <roll>1d6+1</roll>
+    </item>
+    <item>
+        <name>Wand of Fear</name>
+        <roll>1d6+1</roll>
+    </item>
+    <item>
+        <name>Wand of Fireballs</name>
+        <roll>1d6+1</roll>
+    </item>
+    <item>
+        <name>Wand of Lightning Bolts</name>
+        <roll>1d6+1</roll>
+    </item>
+    <item>
+        <name>Wand of Magic Detection</name>
+        <roll>1d3</roll>
+    </item>
+    <item>
+        <name>Wand of Magic Missiles</name>
+        <roll>1d6+1</roll>
+    </item>
+    <item>
+        <name>Wand of Orcus</name>
+        <modifier category="bonus">melee attacks +3</modifier>
+        <modifier category="bonus">melee damage +3</modifier>
+        <modifier category="bonus">ac+3</modifier>
+        <roll>10d6</roll>
+        <roll>2d12</roll>
+        <roll>1d4+3</roll>
+    </item>
+    <item>
+        <name>Wand of Paralysis</name>
+        <roll>1d6+1</roll>
+    </item>
+    <item>
+        <name>Wand of Polymorph</name>
+        <roll>1d6+1</roll>
+    </item>
+    <item>
+        <name>Wand of Secrets</name>
+        <roll>1d3</roll>
+    </item>
+    <item>
+        <name>Wand of Web</name>
+        <roll>1d6+1</roll>
+    </item>
+    <item>
+        <name>Wand of Wonder</name>
+        <roll>1d6+1</roll>
+        <roll>1d6</roll>
+        <roll>1d4</roll>
+        <roll>1d10</roll>
+    </item>
+    <item>
+        <name>Warship</name>
+    </item>
+    <item>
+        <name>Wave</name>
+        <range>20/60</range>
+    </item>
+    <item>
+        <name>Well of Many Worlds</name>
+        <roll>1d8</roll>
+    </item>
+    <item>
+        <name>Whelm</name>
+        <range>20/60</range>
+        <roll>1d8</roll>
+        <roll>2d8</roll>
+    </item>
+    <item>
+        <name>White Dragon Scale Mail</name>
+    </item>
+    <item>
+        <name>Wind Fan</name>
+    </item>
+    <item>
+        <name>Winged Boots</name>
+    </item>
+    <item>
+        <name>Wings of Flying</name>
+        <roll>1d12</roll>
+    </item>
+    <item>
+        <name>Wyvern Poison</name>
+        <roll>7d6</roll>
+    </item>
+    <item>
+        <name>Yellow Sapphire</name>
+    </item>
+    <item>
+        <name>Zircon</name>
+    </item>
+    <item>
+        <name>Armor of Resistance</name>
+    </item>
+    <item>
+        <name>Armor of Vulnerability</name>
+    </item>
+    <item>
+        <name>Bag of Tricks</name>
+    </item>
+    <item>
+        <name>Belt of Giant Strength</name>
+    </item>
+    <item>
+        <name>Carpet of Flying</name>
+    </item>
+    <item>
+        <name>Crystal Ball (Legendary Version)</name>
+    </item>
+    <item>
+        <name>Dragon Scale Mail</name>
+    </item>
+    <item>
+        <name>Elemental Gem</name>
+    </item>
+    <item>
+        <name>Figurine of Wondrous Power</name>
+    </item>
+    <item>
+        <name>Horn of Valhalla</name>
+    </item>
+    <item>
+        <name>Instrument of the Bards</name>
+    </item>
+    <item>
+        <name>Ioun Stone</name>
+    </item>
+    <item>
+        <name>Manual of Golems</name>
+    </item>
+    <item>
+        <name>Potion of Giant Strength</name>
+    </item>
+    <item>
+        <name>Potion of Healing (*)</name>
+    </item>
+    <item>
+        <name>Potion of Resistance</name>
+    </item>
+    <item>
+        <name>Quaal's Feather Token</name>
+    </item>
+    <item>
+        <name>Ring of Elemental Command</name>
+    </item>
+    <item>
+        <name>Ring of Resistance</name>
+    </item>
+    <item>
+        <name>Scroll of Protection</name>
+    </item>
+    <item>
+        <name>Spell Scroll</name>
+    </item>
+    <item>
+        <name>Sword of Answering</name>
+    </item>
+</compendium>

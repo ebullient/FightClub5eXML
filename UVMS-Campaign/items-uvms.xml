@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<compendium version="5" auto_indent="NO">
+    <item>
+        <name>Cold Weather Clothes</name>
+        <type>G</type>
+        <detail>common</detail>
+        <text>Thick clothing including a coat, gloves, a scarf, a furred cloak or hat, woolen stockings, and thick boots.
+While wearing these clothes, you have advantage on saving throws to resist the effects of cold weather. You additionally have disadvantage on saving throws to resist the effects of hot weather.</text>
+        <weight>8.0</weight>
+        <value>10.0</value>
+    </item>
+
+    <item>
+        <name>The Splendiferous Bauble</name>
+        <type>W</type>
+        <detail>very rare</detail>
+        <text>This is a medium-sized pine cone in a simple box. However, anybody who looks at it sees the item that their heart most desires and is compelled to trade anything they own in order to obtain The Splendiferous Bauble.
+When you show this item to another creature, it must make a DC 20 INTELLIGENCE SAVING THROW. On a failure, it regards The Splendiferous Bauble as the most desired and valuable item they have ever seen and will be willing to trade any one item they have on their person for it.
+It cannot compel a creature to give away anything which would require signatures, ceremonies, or intermediaries such as deeds or noble titles. It will only trade the most valuable item on their person for The Splendiferous Bauble. Minutes after trading for it, the creature recognizes its true nature.
+Source: Igor's Challenge</text>
+        <magic>1</magic>
+    </item>
+
+</compendium>

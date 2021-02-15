@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<compendium version="5" auto_indent="NO">
+    <monster>
+        <name>Orc Brute</name>
+        <size>M</size>
+        <type>humanoid (orc)</type>
+        <alignment>chaotic evil</alignment>
+        <ac>12 (hide armor)</ac>
+        <hp>30 (4d8+12)</hp>
+        <speed>walk 30 ft.</speed>
+        <str>17</str>
+        <dex>11</dex>
+        <con>16</con>
+        <int>7</int>
+        <wis>11</wis>
+        <cha>10</cha>
+        <save></save>
+        <skill>Intimidation +2</skill>
+        <senses>darkvision 60 ft.</senses>
+        <passive>10</passive>
+        <languages>Common, Orc</languages>
+        <cr>1</cr>
+        <resist></resist>
+        <immune></immune>
+        <trait>
+            <name>Aggressive</name>
+            <text>As a bonus action, the orc can move up to its speed toward a hostile creature that it can see.</text>
+        </trait>
+        <trait>
+            <name>Gruumsh’s Fury</name>
+            <text>The orc deals an extra 4 (1d8) damage when it hits with a weapon attack (included)</text>
+        </trait>
+        <action>
+            <name>Maul</name>
+            <text>Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 14 (2d6 + 3 + 1d8) bludgeoning damage.</text>
+            <attack>Maul|5|2d6+3+1d8</attack>
+        </action>
+        <description>The orc brute is precisely what it sounds like, big, mean, stupid, and vicious. Don’t get in its way.
+------
+Source: D&#38;D Denizens: Orcs</description>
+        <environment>Any</environment>
+    </monster>
+
+    <monster>
+        <name>Orc Campaigner</name>
+        <size>M</size>
+        <type>humanoid (orc)</type>
+        <alignment>chaotic evil</alignment>
+        <ac>17 (splint)</ac>
+        <hp>52 (7d8+21)</hp>
+        <speed>walk 30 ft.</speed>
+        <str>16</str>
+        <dex>12</dex>
+        <con>16</con>
+        <int>8</int>
+        <wis>12</wis>
+        <cha>10</cha>
+        <skill>Intimidation +2</skill>
+        <skill>History +1</skill>
+        <senses>darkvision 60 ft.</senses>
+        <passive>11</passive>
+        <languages>Common, Orc</languages>
+        <cr>2</cr>
+        <trait>
+            <name>Aggressive</name>
+            <text>As a bonus action, the orc can move up to its speed toward a hostile creature that it can see.</text>
+        </trait>
+        <action>
+            <name>Multiattack</name>
+            <text>The orc campaigner makes two melee attacks with its Greataxe or its Javelin (reach 5ft)</text>
+        </action>
+        <action>
+            <name>Greataxe</name>
+            <text>Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 9 (1d12 + 3) slashing damage.</text>
+            <attack>Greataxe|5|1d12+3</attack>
+        </action>
+        <action>
+            <name>Javelin</name>
+            <text>Melee or Ranged Weapon Attack: +5 to hit, reach 5 ft. or range 30/120 ft., one target. Hit: 6 (1d6 + 3) piercing damage.</text>
+            <attack>Javelin|5|1d6+3</attack>
+        </action>
+        <action>
+            <name>Shortbow</name>
+            <text>Ranged Weapon Attack. +3 to hit, range 80/320 ft., one target. Hit: 4 (1d6 + 1) piercing damage.</text>
+            <attack>Shortbow|3|1d6+1</attack>
+        </action>
+        <description>A scarred grizzled veteran of many battles in many places, the orc campaigner has seen it all. Or at least, that’s what he would have you believe. And aside from the bloodletting, he didn’t like any of it.
+------
+Source: D&#38;D Denizens: Orcs</description>
+        <environment>Any</environment>
+    </monster>
+
+    <monster>
+        <name>Orc Fury</name>
+        <size>M</size>
+        <type>humanoid (orc)</type>
+        <alignment>chaotic evil</alignment>
+        <ac>13 (hide armor)</ac>
+        <hp>67 (9d8+27)</hp>
+        <speed>walk 30 ft.</speed>
+        <str>18</str>
+        <dex>12</dex>
+        <con>17</con>
+        <int>6</int>
+        <wis>11</wis>
+        <cha>9</cha>
+        <skill>Intimidation +3</skill>
+        <senses>darkvision 60 ft.</senses>
+        <passive>10</passive>
+        <languages>Common, Orc</languages>
+        <cr>3</cr>
+        <trait>
+            <name>Aggressive</name>
+            <text>As a bonus action, the orc can move up to its speed toward a hostile creature that it can see.</text>
+        </trait>
+        <trait>
+            <name>Beserk</name>
+            <text>Every time the orc fury reduces a creature to 0 hit points, it must make a DC 8 Wisdom saving throw. If it fails, then on its next turn it moves toward the nearest creature it can see (unless it is already within reach of one), treating all creatures on the battlefield as hostile. It then attacks a randomly determined creature within its reach.</text>
+        </trait>
+        <trait>
+            <name>Brute</name>
+            <text>A melee weapon deals one extra die of its damage when the orc fury hits with it (included in the attacks).</text>
+        </trait>
+        <trait>
+            <name>Reckless</name>
+            <text>At the start of its turn, the orc fury can gain advantage on all melee weapon attack rolls during that turn, but attack rolls against it have advantage until the start of its next turn.</text>
+        </trait>
+        <action>
+            <name>Greataxe</name>
+            <text>Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 17 (2d12 + 4) slashing damage.</text>
+            <attack>Greataxe|6|2d12+4</attack>
+        </action>
+        <action>
+            <name>Javelin</name>
+            <text>Melee or Ranged Weapon Attack. +6 to hit, reach 5 ft. or range 30/120 ft., one target. Hit: 11 (2d6 + 4) piercing damage.</text>
+            <attack>Javelin|6|2d6+4</attack>
+        </action>
+        <description>Nobody likes to see an orc fury coming at them in combat, not even another orc who’s on the same side. Once they start swinging, furies have a hard time stopping, no matter who gets in the way.
+------
+Source: D&#38;D Denizens: Orcs</description>
+        <environment>Any</environment>
+    </monster>
+
+    <monster>
+        <name>Orc Sniffer</name>
+        <size>M</size>
+        <type>humanoid (orc)</type>
+        <alignment>chaotic evil</alignment>
+        <ac>14 (studded leather)</ac>
+        <hp>13 (1d8)</hp>
+        <speed>walk 30 ft.</speed>
+        <str>14</str>
+        <dex>14</dex>
+        <con>15</con>
+        <int>9</int>
+        <wis>13</wis>
+        <cha>10</cha>
+        <skill>Intimidation +2</skill>
+        <skill>Perception +5</skill>
+        <skill>Survival +5</skill>
+        <senses>blindsense 30 ft., darkvision 60 ft.</senses>
+        <passive>15</passive>
+        <languages>Common, Orc</languages>
+        <cr>1/2</cr>
+        <trait>
+            <name>Aggressive</name>
+            <text>As a bonus action, the orc can move up to its speed toward a hostile creature that it can see.</text>
+        </trait>
+        <trait>
+            <name>Keen Smell</name>
+            <text>The orc sniffer has advantage on Wisdom (Perception) checks that rely on smell and on Wisdom (Survival) checks to track a creature by smell.</text>
+        </trait>
+        <action>
+            <name>Battleaxe</name>
+            <text>Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 6 (1d8 + 2) slashing damage, or 7 (1d10 + 2) slashing damage if used in two hands.</text>
+            <attack>One Handed|4|1d8+2</attack>
+            <attack>Two Handed|4|1d10+2</attack>
+        </action>
+        <action>
+            <name>Shortbow</name>
+            <text>Ranged Weapon Attack: +4 to hit, range 80/320 ft., one target. Hit: 5 (1d6 + 2) piercing damage.</text>
+            <attack>Shortbow|4|1d6+2</attack>
+        </action>
+        <description>Sniffers are usually small and wiry, more akin to a big goblin or hobgoblin in stature. They are no less vicious or bloodthirsty than other orcs, though, and they are very fond of the flesh of other sapient creatures. They pride themselves on being good trackers.
+------
+Source: D&#38;D Denizens: Orcs</description>
+        <environment>Any</environment>
+    </monster>
+
+    <monster>
+        <name>Orc Soldier</name>
+        <size>M</size>
+        <type>humanoid (orc)</type>
+        <alignment>chaotic evil</alignment>
+        <ac>16 (chain mail)</ac>
+        <hp>22 (1d8)</hp>
+        <speed>walk 30 ft.</speed>
+        <str>16</str>
+        <dex>12</dex>
+        <con>16</con>
+        <int>7</int>
+        <wis>11</wis>
+        <cha>10</cha>
+        <skill>Intimidation +2</skill>
+        <skill>Athletics +5</skill>
+        <senses>darkvision 60 ft.</senses>
+        <passive>10</passive>
+        <languages>Common, Orc</languages>
+        <cr>1</cr>
+        <trait>
+            <name>Aggressive</name>
+            <text>As a bonus action, the orc can move up to its speed toward a hostile creature that it can see.</text>
+        </trait>
+        <action>
+            <name>Greataxe</name>
+            <text>Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 9 (1d12 + 3) slashing damage.</text>
+            <attack>Greataxe|5|1d12+3</attack>
+        </action>
+        <action>
+            <name>Javelin</name>
+            <text>Melee or Ranged Weapon Attack: +5 to hit, reach 5 ft. or range 30/120 ft., one target. Hit: 6 (1d6 + 3) piercing damage.</text>
+            <attack>Javelin|5|1d6+3</attack>
+        </action>
+        <action>
+            <name>Shortbow</name>
+            <text>Ranged Weapon Attack: +3 to hit, range 80/320 ft., one target. Hit: 4 (1d6 + 1) piercing damage.</text>
+            <attack>Shortbow|3|1d6+1</attack>
+        </action>
+        <description>Orc soldiers are big and strong, even for orcs. Accomplished in combat and with several battles under their belts, they are a force to be feared, particularly in great numbers.
+------
+Source: D&#38;D Denizens: Orcs</description>
+        <environment>Any</environment>
+    </monster>
+</compendium>
